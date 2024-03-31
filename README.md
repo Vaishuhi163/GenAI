@@ -9,8 +9,7 @@ The Creative Writing Assistance System is a project developed for academic purpo
 
 - **Prompt-based Text Generation**: Input prompts and receive AI-generated text tailored to user preferences.
 - **User-Friendly Interface**: Intuitive interface for easy interaction and prompt input.
-- **Customization Options**: Customize prompts and settings to explore different writing styles and themes.
-
+  
 ## Repository Structure
 
 - This repository contains of the dataset which is used for this project and the implementation code which is stored in an IPYNB file.
