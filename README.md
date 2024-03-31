@@ -1,4 +1,4 @@
-# GenAI-Naan-mudhalvan
+# GenAI-Naan-Mudhalvan
 # Creative Writing Assistance System
 
 ## Overview
