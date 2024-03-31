@@ -17,11 +17,15 @@ The Creative Writing Assistance System is a project developed for academic purpo
 
 To get started with the Creative Writing Assistant, simply open the IPython Notebook file and follow the instructions provided in the notebook cells.
 
+## Dataset
+
+The project utilizes a curated dataset of creative writing samples, including prompts and corresponding exemplary texts, to train the AI model.
+
 ## Usage
 
 - Input prompts in the provided field and run the notebook to generate text suggestions.
 - Explore different prompts and settings to experiment with various writing styles and themes.
 
-## Dataset
+## Contact Information
 
-The project utilizes a curated dataset of creative writing samples, including prompts and corresponding exemplary texts, to train the AI model.
+For any questions or inquiries related to the project, please reach out to my github profile https://github.com/Vaishuhi163.
