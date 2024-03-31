@@ -13,13 +13,18 @@ The Creative Writing Assistance System is a project developed for academic purpo
 
 - **Customization Options**: Customize prompts and settings to explore different writing styles and themes.
 
-## Getting Started
+## Repository Structure
 
-To get started with the Creative Writing Assistant, simply open the IPython Notebook file and follow the instructions provided in the notebook cells.
+- This repository contains of the dataset which is used for this project and the implementation code which is stored in an IPYNB file.
+- This repository consists of a Powerpoint presentation which explains about the overall project.
 
 ## Dataset
 
 The project utilizes a curated dataset of creative writing samples, including prompts and corresponding exemplary texts, to train the AI model.
+
+## Getting Started
+
+To get started with the Creative Writing Assistant, simply open the IPython Notebook file and follow the instructions provided in the notebook cells.
 
 ## Usage
 
